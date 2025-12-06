@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Muhammad Ali,<br>I'm a Computer Science student crafting modern, scalable web apps with the MERN stack (MongoDB, Express.js, React, Node.js) 🚀. I'm passionate about blending AI 🤖, DevOps 🛠️, and Blockchain ⛓️ to build innovative solutions. From integrating machine learning models to streamlining CI/CD pipelines and exploring decentralized apps, I love pushing the boundaries of tech. My goal? Create impactful, full-stack projects that solve real-world problems! 🌍<br>🔍 Currently exploring: AI-driven web apps, Docker for deployments, and Ethereum smart contracts.<br>📫 Let's connect: https://www.linkedin.com/in/leonistheczar/<br>⚡ Fun fact: I’m always experimenting with new tools to make my code cleaner and my apps smarter!
+Hi there! 👋 I'm Muhammad Ali,<br>I'm a Computer Science student crafting modern, scalable web apps with the MERN stack (MongoDB, Express.js, React, Node.js) 🚀. I'm passionate to build innovative solutions.I love pushing the boundaries of tech. My goal? Create impactful, full-stack projects that solve real-world problems!<br>📫 Let's connect: https://www.linkedin.com/in/leonistheczar/<br>⚡ Fun fact: I’m always experimenting with new tools to make my code cleaner and my apps smarter!
 
 
 ## 🌐 Socials:
