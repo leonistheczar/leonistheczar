@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/27969218/ReadMe.md)
 # 💫 About Me:
 Hi there! 👋 I’m Muhammad Ali.<br>I’m a Computer Science student focused on building modern, scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js) 🚀. I’m passionate about creating innovative solutions and constantly pushing the boundaries of technology. My goal is to develop impactful full-stack projects that solve real-world problems and deliver meaningful user experiences.<br><br>📫 Let’s connect: [https://www.linkedin.com/in/leonistheczar/](https://www.linkedin.com/in/leonistheczar/)<br>⚡ Fun fact: I love experimenting with new tools and technologies to write cleaner code and build smarter applications.
 
