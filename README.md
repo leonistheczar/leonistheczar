@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there! 👋 I’m Muhammad Ali.<br>I’m a Computer Science student focused on building modern, scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js) 🚀. I’m passionate about creating innovative solutions and constantly pushing the boundaries of technology. My goal is to develop impactful full-stack projects that solve real-world problems and deliver meaningful user experiences.<br><br>📫 Let’s connect: [https://www.linkedin.com/in/leonistheczar/](https://www.linkedin.com/in/leonistheczar/)<br>⚡ Fun fact: I love experimenting with new tools and technologies to write cleaner code and build smarter applications.
+Hi there! 👋 I’m Muhammad Ali.<br>I’m a Computer Science student passionate about building modern, scalable web applications across the JavaScript ecosystem 🚀. I work with technologies including JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and related modern web tools. I enjoy exploring the full stack, from intuitive frontend experiences to robust backend systems and databases. My goal is to build impactful full-stack projects that solve real-world problems and deliver meaningful user experiences.
+<br><br>
+📫 Let’s connect: [https://www.linkedin.com/in/leonistheczar/](https://www.linkedin.com/in/leonistheczar/)<br>
+⚡ Fun fact: I love experimenting with new tools and technologies to write cleaner code and build smarter applications.
 
 
 ## 🌐 Socials:
